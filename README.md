@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-$ git clone --recursive git@github.com:rafaelrinaldi/vimfiles.git
+$ git clone --recursive git@github.com:dleitee/vimfiles.git
 $ cd vimfiles
 $ ./install
 ```
@@ -20,4 +20,4 @@ $ ./install
 
 ## License
 
-MIT © [Rafael Rinaldi](http://rinaldi.io)
+MIT © [Daniel Leite de Oliveira](http://leite.co)
